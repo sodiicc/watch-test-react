@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(235, 233, 233);
+  letter-spacing: 1px;
+}
+
+input, button {
+  letter-spacing: 1px;
 }
 
 code {
